@@ -1,0 +1,32 @@
+/*Navbar*/
+.navbar {
+    max-height: 60px;
+    background-color: seashell;
+    font-size: 25px;
+}
+
+.navigation .navbar-brand{
+    background-color: rgb(35, 187, 162);
+    font-weight: bold;
+}
+
+.active, .dropdown-menu .dropdown-item:active a:hover {
+    background-color: seashell;
+}
+
+.dropdown-item {
+    color:teal;
+}
+
+.active, .dropdown-menu .dropdown-item:active, .dropdown .dropdown-menu .dropdown-item:hover {
+    background-color: turquoise;
+}
+
+.nav-link:hover {
+    background-color: turquoise;
+}
+
+a {
+    color:rgb(35, 187, 162);
+    font-size: 15px;
+}

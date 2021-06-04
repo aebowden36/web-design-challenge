@@ -62,7 +62,12 @@ img{
     color:black;
     background-color: white;
 }
-
+/* Title */
+.title {
+    font-size: 25px;
+    color:rgb(35, 187, 162);
+    font-weight: bold;
+}
 /* Media */
 @media(max-width: 992px) {
     .navbar-expand-lg {
